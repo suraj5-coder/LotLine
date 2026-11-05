@@ -1,0 +1,18 @@
+{
+  "notice": {
+    "id": "LL-017",
+    "source": "Northstar supplier notice LL-017 (synthetic)",
+    "sku": "NS-KETTLE-04",
+    "lot": "K7-202",
+    "questionableLot": "K7-20Z"
+  },
+  "records": [
+    {"id":"OUT-101","sku":"NS-KETTLE-04","lot":"K7-202","destination":"Maple Store","kind":"shipped","units":24},
+    {"id":"OUT-102","sku":"NS-KETTLE-04","lot":"k7 202","destination":"Harbor Store","kind":"shipped","units":12},
+    {"id":"STK-201","sku":"NS-KETTLE-04","lot":"K7202","destination":"East DC / B-14","kind":"stock","units":18},
+    {"id":"OUT-103","sku":"NS-KETTLE-04","lot":"K7-20Z","destination":"Hill Store","kind":"shipped","units":40},
+    {"id":"STK-202","sku":"NS-KETTLE-04","lot":"K7-20Z","destination":"West DC / A-03","kind":"stock","units":6},
+    {"id":"OUT-104","sku":"NS-KETTLE-04","lot":"K7-203","destination":"Harbor Store","kind":"shipped","units":30},
+    {"id":"OUT-105","sku":"NS-TOASTER-02","lot":"K7-202","destination":"Maple Store","kind":"shipped","units":9}
+  ]
+}
